@@ -1,5 +1,5 @@
 # Web interface for Monte Carlo modelling of historical datasets with a high level of temporal uncertainty
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17788673.svg)](https://doi.org/10.5281/zenodo.17788673)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/petrifiedvoices/tempun)
 
 ## Description
@@ -77,8 +77,8 @@ If you use this tool in your research, please cite both the web interface and th
   title        = {Tempun Web Interface},
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXX}
+  doi          = {10.5281/zenodo.17788673},
+  url          = {https://doi.org/10.5281/zenodo.17788673}
 }
 
 @software{kase2022tempun,
@@ -94,7 +94,7 @@ If you use this tool in your research, please cite both the web interface and th
 
 ### Text Citations
 
-- Heřmánková, P. (2025). *Tempun Web Interface* [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+- Heřmánková, P. (2025). *Tempun Web Interface* [Software]. Zenodo. https://doi.org/10.5281/zenodo.17788673
 - Kaše, V. (2022). *tempun* (Version v0.2.2) [Software]. Zenodo. https://zenodo.org/records/8179346
 
 ## Licence
